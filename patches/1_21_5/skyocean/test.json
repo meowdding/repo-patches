@@ -1,0 +1,12 @@
+{
+    "targets":{
+        "SKYOCEAN": "*"
+    },
+    "action": {
+        "type": "insert",
+        "target": "",
+        "addition": {"meow":"meow"},
+        "required": true
+    },
+    "file": "patches/0001"
+}
